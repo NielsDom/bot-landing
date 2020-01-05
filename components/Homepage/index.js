@@ -46,13 +46,13 @@ const Homepage = () => (
       }}
     >
       <Typography variant="h2" component="h1" gutterBottom>
-        Booking Bot Facebook for restaurants
+        Booking Bot for restaurants on Facebook
       </Typography>
-      <Paper elevation={4} style={styles.titleH2}>
+      {/* <Paper elevation={4} style={styles.titleH2}>
         <Typography variant="h3" component="h2">
           x30-x50 more return than classic FB Ads
         </Typography>
-      </Paper>
+      </Paper> */}
 
       <h2>
         <Typed

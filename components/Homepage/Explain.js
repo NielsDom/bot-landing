@@ -30,9 +30,17 @@ const Explain = () => {
             </div>
             <div>
               Now when people are chatting with your facebook page, they can
-              (depending on your settings): book a table, order food, enter
-              coupon code, calling you and get all important information they
-              need: price, menu & location.
+              (depending on your settings):{" "}
+              <span style={{ textDecoration: "underline" }}>book a table</span>,{" "}
+              <span style={{ textDecoration: "underline" }}>order food</span>,{" "}
+              <span style={{ textDecoration: "underline" }}>
+                apply promo code
+              </span>{" "}
+              & calling you. Also, they get all important information needed
+              before booking:{" "}
+              <span style={{ textDecoration: "underline" }}>price</span>,{" "}
+              <span style={{ textDecoration: "underline" }}>menu</span> &{" "}
+              <span style={{ textDecoration: "underline" }}>location</span>.
             </div>
           </Typography>
         </div>
@@ -40,13 +48,13 @@ const Explain = () => {
         <div>
           <Typography variant="h5" component="body1">
             <b>2 (optional)-</b> To use Facebook Ads x30 to x50 more
-            effectively, you should promote your facebook page's chat to let
-            user book quickly and make all information available in one place
-            for him. Nowadays it is one of the best facebook ads strategy for
-            restaurant, because of its low frictions.
-            <div>
-              <b>Examples:</b>
-            </div>
+            effectively, you should promote your facebook page's chat to let{" "}
+            <span style={{ textDecoration: "underline" }}>
+              user book quickly and make all information available fast in one
+              place
+            </span>
+            . Nowadays it is one of the best facebook Ads strategy for
+            restaurant, because of its low frictions. <b>Examples:</b>
           </Typography>
           <div
             style={{
